@@ -4,6 +4,9 @@ Welcome to your new qrcode project and to the internet computer development comm
 
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
 
+<img src="images/screenShot0.png"  height="350" width="650" >
+<img src="images/screenShot1.png"  height="350" width="650" >
+
 To learn more before you start working with qrcode, see the following documentation available online:
 
 - [Quick Start](https://internetcomputer.org/docs/current/developer-docs/setup/deploy-locally)
